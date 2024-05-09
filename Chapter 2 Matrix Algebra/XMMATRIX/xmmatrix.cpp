@@ -38,7 +38,7 @@ int main()
         cout << "directx math not supported" << endl;
         return 0;
     }
-
+    
     XMMATRIX A(1.0f, 0.0f, 0.0f, 0.0f,
         0.0f, 2.0f, 0.0f, 0.0f,
         0.0f, 0.0f, 4.0f, 0.0f,
